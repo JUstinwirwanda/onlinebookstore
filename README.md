@@ -5,4 +5,6 @@
 #admin dashboord
 #admin in admin dashboard will see pending orders, total book, categories of book. 
 #admin will be able to add new users and assign role to them. and he will see sales report
+ whenever you have an additional information or suggestion you share don't hesitate to reach me via my email justinoscarjuniorjustinho@gmail.com
+
 
